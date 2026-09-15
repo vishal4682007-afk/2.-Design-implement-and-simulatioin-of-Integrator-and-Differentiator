@@ -63,24 +63,32 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1028" alt="WhatsApp Image 2026-09-15 at 7 14 25 PM" src="https://github.com/user-attachments/assets/1ea7a785-ae1a-4799-af6a-1aeb1194970b" />
 
 
-  **MODEL GRAPH:**
+
+  **MODEL GRAPH:**<img width="1600" height="1038" alt="WhatsApp Image 2026-09-15 at 7 14 53 PM" src="https://github.com/user-attachments/assets/442d0aaf-60ef-4088-9ebe-942ec2d952b1" />
 
 
-  **TABULATION:**
- 
 
-**MODEL CALCULATION:**
+  **TABULATION:**<img width="1600" height="541" alt="WhatsApp Image 2026-09-15 at 7 14 41 PM" src="https://github.com/user-attachments/assets/83ce7ea6-6fe7-4446-8a35-e4d7b0a80c78" />
+
+ **GRAPH:**<img width="1080" height="1513" alt="WhatsApp Image 2026-09-15 at 7 15 19 PM" src="https://github.com/user-attachments/assets/3d36064b-c4af-41c0-aeed-3714a41c0c40" />
+
 
 **DIFFERENTIATOR:**
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM**<img width="1600" height="814" alt="WhatsApp Image 2026-09-15 at 7 16 02 PM" src="https://github.com/user-attachments/assets/dfb07f3e-a008-42ff-81a4-b8efae83c34b" />
 
 
-  **MODEL GRAPH:**
+
+  **MODEL GRAPH:**<img width="909" height="1600" alt="WhatsApp Image 2026-09-15 at 7 17 19 PM" src="https://github.com/user-attachments/assets/5d4d54b2-9394-45b1-90d3-70326e995f07" />
 
 
-  **TABULATION:**
+
+  **TABULATION:**<img width="1600" height="665" alt="WhatsApp Image 2026-09-15 at 7 16 16 PM" src="https://github.com/user-attachments/assets/d660a87f-0c40-44b9-9d35-c7d22c025eb4" />
+
+**GRAPH:**``<img width="1080" height="1405" alt="WhatsApp Image 2026-09-15 at 7 16 41 PM" src="https://github.com/user-attachments/assets/4b07acb8-6827-4454-a14e-ca4afb40ee3d" />
+
 
  
 
@@ -95,6 +103,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="1080" height="1451" alt="WhatsApp Image 2026-09-15 at 7 22 03 PM" src="https://github.com/user-attachments/assets/cacf673f-6927-4548-bc09-6069d47e88a7" />
+
   
 
 **RESULT:**
