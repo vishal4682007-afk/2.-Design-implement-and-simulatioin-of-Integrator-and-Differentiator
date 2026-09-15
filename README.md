@@ -62,25 +62,38 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
  
 **INTEGRATOR:**
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM**<img width="1600" height="1090" alt="WhatsApp Image 2026-09-15 at 8 48 00 PM" src="https://github.com/user-attachments/assets/f64f9982-d2de-4f69-a69b-ee98a992fe50" />
 
 
-  **MODEL GRAPH:**
+
+  **MODEL GRAPH:**<img width="1600" height="808" alt="WhatsApp Image 2026-09-15 at 8 48 54 PM" src="https://github.com/user-attachments/assets/d6b4bed3-4302-461c-a724-e088694ae198" />
 
 
-  **TABULATION:**
+
+  **TABULATION:**<img width="1600" height="536" alt="WhatsApp Image 2026-09-15 at 8 48 28 PM" src="https://github.com/user-attachments/assets/52b64d28-937a-406e-9ead-1e9a689161fe" />
+
  
 
-**MODEL CALCULATION:**
+**GRAPH:**
+<img width="1045" height="1511" alt="WhatsApp Image 2026-09-15 at 8 51 35 PM" src="https://github.com/user-attachments/assets/a01be261-04b4-4f2a-b39d-5f9b1a3acba9" />
+
 
 **DIFFERENTIATOR:**
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM**<img width="1600" height="1391" alt="WhatsApp Image 2026-09-15 at 8 50 22 PM" src="https://github.com/user-attachments/assets/1164054c-e783-4e26-a583-510acd2b6234" />
 
 
-  **MODEL GRAPH:**
+
+  **MODEL GRAPH:**<img width="1600" height="826" alt="WhatsApp Image 2026-09-15 at 8 49 21 PM" src="https://github.com/user-attachments/assets/e073f9bf-510b-4368-9b8c-64abbff8167f" />
+<img width="1512" height="1600" alt="WhatsApp Image 2026-09-15 at 8 50 38 PM" src="https://github.com/user-attachments/assets/473d190a-807a-4648-a992-caffb1e6ef09" />
 
 
-  **TABULATION:**
+
+  **TABULATION:**<img width="1600" height="613" alt="WhatsApp Image 2026-09-15 at 8 50 04 PM" src="https://github.com/user-attachments/assets/64d8e3bc-1dec-44f1-9892-250dea96b37b" />
+  **GRAPH:**
+<img width="996" height="1476" alt="WhatsApp Image 2026-09-15 at 8 52 08 PM" src="https://github.com/user-attachments/assets/4b355dce-d026-4e0f-9ebf-afe3fe27e64a" />
+<img width="1080" height="1567" alt="WhatsApp Image 2026-09-15 at 8 51 18 PM" src="https://github.com/user-attachments/assets/4d1af12e-993a-4148-a47f-a084ffe191dd" />
+
+
 
  
 
@@ -94,8 +107,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
-  **CIRCUIT and Waveform**
-  
+  **CIRCUIT and Waveform**<img width="806" height="478" alt="WhatsApp Image 2026-09-15 at 9 10 29 PM" src="https://github.com/user-attachments/assets/3d2689ee-3f35-487b-a164-e0e837a67b46" />
+
+  <img width="827" height="391" alt="WhatsApp Image 2026-09-15 at 9 10 45 PM" src="https://github.com/user-attachments/assets/228fe9d5-2bbe-4c55-b189-f311ce258404" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
